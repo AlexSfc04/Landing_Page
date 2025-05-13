@@ -50,10 +50,10 @@ nav {
     color: #ffcc00;
 }
 
-/* Hero Section */
+
 .hero {
     text-align: center;
-    padding-top: 20vh;
+    padding-top: 25vh;
 }
 
 .hero h1 {
@@ -96,14 +96,14 @@ nav {
 
 .destinos-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 25px;
 }
 
 .destino-card {
     background: #e9e3e3;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 15px;
    
 }
 
@@ -126,7 +126,8 @@ nav {
 
 .contacto {
     padding: 60px 50px;
-    background: #f4f4f4;
+    background: #878585;
+    color: #ffffff;
     text-align: center;
 }
 
