@@ -32,6 +32,8 @@ nav {
 .nav-links {
     list-style: none;
     display: flex;
+    font-size: 20px;
+    
 }
 
 .nav-links li {
@@ -76,7 +78,9 @@ nav {
 
 .hero {
     text-align: center;
-    padding-top: 25vh;
+    padding-top: 135px;
+    margin: 15px;
+
 }
 
 .hero h1 {
@@ -204,7 +208,6 @@ footer {
 
 .social-links h4 {
     margin: 10px;
-    font-size: 1.2em;
     color: #fdfdfd;
 }
 
@@ -224,7 +227,6 @@ footer {
 
 .social-links p {
     margin: 14px;
-    font-size: 1em;
     color: #ffffff;
 }
 
