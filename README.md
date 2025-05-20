@@ -15,7 +15,8 @@ Perfect for agencies, startups, blogs, or platforms looking for a sleek and effe
 
 ## 🖼️ Preview
 
-![image](https://github.com/user-attachments/assets/5dce8989-a4c2-4a1c-91e2-52cfcc7a6a9c)
+![image](https://github.com/user-attachments/assets/b6ac7ba8-bc30-48a0-b787-16f1a382e107)
+
 
 ## 🌟 Main Features
 
