@@ -15,8 +15,7 @@ Perfect for agencies, startups, blogs, or platforms looking for a sleek and effe
 
 ## 🖼️ Preview
 
-<!-- Add a screenshot or GIF of the landing page here -->
-<!-- ![Demo Happy Travel](path/to/your/screenshot.png) -->
+![image](https://github.com/user-attachments/assets/5dce8989-a4c2-4a1c-91e2-52cfcc7a6a9c)
 
 ## 🌟 Main Features
 
