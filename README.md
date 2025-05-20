@@ -59,8 +59,7 @@ Landing_Page/
 
 ## 📲 Demo
 
-<!-- If you have a live demo, add it here -->
-<!-- [View Demo](https://your-demo-url.com) -->
+Soon...
 
 ## 🤝 Contributions
 
